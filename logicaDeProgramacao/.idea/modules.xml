@@ -6,8 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/aula02/aula02.iml" filepath="$PROJECT_DIR$/aula02/aula02.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula03/aula03.iml" filepath="$PROJECT_DIR$/aula03/aula03.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula04/aula04.iml" filepath="$PROJECT_DIR$/aula04/aula04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula05/aula05.iml" filepath="$PROJECT_DIR$/aula05/aula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaSala/aulaSala.iml" filepath="$PROJECT_DIR$/aulaSala/aulaSala.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/aulas.iml" filepath="$PROJECT_DIR$/.idea/aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula04/exerciciosSala.iml" filepath="$PROJECT_DIR$/aula04/exerciciosSala.iml" />
     </modules>
   </component>
 </project>

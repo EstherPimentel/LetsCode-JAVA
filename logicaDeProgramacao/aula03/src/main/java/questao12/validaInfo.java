@@ -13,28 +13,37 @@ Estado civil: ‘s’, ‘c’, ‘v’, ‘d’
 public class validaInfo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         String nome;
         while(true) {
             System.out.println("Informe seu nome: ");
             nome = scanner.nextLine();
             if (nome.length() < 3) {
                 System.out.println("O nome precisa ter 3 ou mais caracteres");
+            } else {
+                break;
             }
         }
 
+        int idade;
         while(true) {
             System.out.println("Informe sua idade: ");
-            int idade = scanner.nextInt();
+            idade = scanner.nextInt();
             if (idade <= 0 || idade >= 150) {
                 System.out.println("Idade precisa ser maior que 0 e menor que 150");
+            } else {
+                break;
             }
         }
 
+        double salario;
         while(true) {
             System.out.println("Iforme seu salário: ");
-            double salario = scanner.nextDouble();
+            salario = scanner.nextDouble();
             if (salario <= 0) {
                 System.out.println("Informe valor maior que 0");
+            } else {
+                break;
             }
         }
 

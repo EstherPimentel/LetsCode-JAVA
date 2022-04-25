@@ -14,7 +14,7 @@ public class aulaEntradaSaida {
         System.out.println("Digite sua idade: ");
         int idade = scanner.nextInt();
 
-        System.out.printf("O %s tem %d anos", nome, idade);
-        System.out.println("A " + nome + " tem " + idade + " anos.");
+        System.out.printf("A %s tem %d anos.", nome, idade);
+        System.out.println("\nA " + nome + " tem " + idade + " anos.");
     }
 }
