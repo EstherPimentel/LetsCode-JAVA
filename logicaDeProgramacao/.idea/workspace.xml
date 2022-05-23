@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a17251c-e07e-4f13-affb-8b0f21c849d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula01/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio1/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio3/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio4/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula02Exercicio4/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula03/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/Aula03/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/aula01a/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/aula01/src/aula01a/UsuarioJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="290AtbFxmC3HDUhEeWMV7QOHKj3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a17251c-e07e-4f13-affb-8b0f21c849d1" name="Changes" comment="" />
+      <created>1652239846483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652239846483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
