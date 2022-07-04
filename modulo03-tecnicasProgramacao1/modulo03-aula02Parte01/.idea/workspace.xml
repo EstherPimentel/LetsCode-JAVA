@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8618b38-92e0-4e69-be29-ebe64de00a6a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/aulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../logicaDeProgramacao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula01/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula01/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/SexoEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02Classes/SexoEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio1/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio1/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio2/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio2/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio2/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio2/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio3/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio3/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula02ClassesExercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio1/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio1/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Biblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/EnumGenero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/EnumGenero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula03EncapsulamentoExercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio1/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Disciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Disciplina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/SistemaEscola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula04HerancaExercicio3/SistemaEscola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Diretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Diretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/GerenciadorBonificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/GerenciadorBonificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio1/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Gigante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Gigante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/TipoAtaque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/Aula05PolimorfismoExercicio3/TipoAtaque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra1/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra1/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra5Abstract5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioExtra5Abstract5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioRevisao/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioRevisao/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioRevisao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/ExercicioRevisao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/aula01a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/aula01a/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo/aula01/src/aula01a/UsuarioJogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo/aula01/src/aula01a/UsuarioJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IBoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IEnemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/IMerchant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/MerchantClovis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula01InterfacesExemplo2Clovis/MerchantClovis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/LocalCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/LocalCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/VirtualCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Aula02AbstractCadastroProdutosDigitais/VirtualCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/ICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/ICalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Subtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../poo2/src/Calculator/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../poo2/src/Calculator/Sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2AXh9KsIgtwSseAbw96DIIIGeix" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lambdaExpressions-aula02Parte01" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="modulo03-aula02Parte01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8618b38-92e0-4e69-be29-ebe64de00a6a" name="Changes" comment="" />
+      <created>1655161688329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655161688329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
